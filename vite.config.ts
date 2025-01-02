@@ -12,7 +12,7 @@ export default defineConfig({
       },
     }),
   ],
-  base: '/',
+  base: '/booking2/',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, 'src'),

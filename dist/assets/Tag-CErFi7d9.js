@@ -1,0 +1,1 @@
+import{z as a,U as e}from"./index-Cer2pxi4.js";const p=a("span",{target:"ejj0ljj0"})(({color:t=e.white,backgroundColor:i=e.blue})=>({fontSize:"11px",padding:"4px 5px",fontWeight:"bold",borderRadius:"2px",textAlign:"center",color:t in e?e[t]:t,backgroundColor:i in e?e[i]:i}),"");export{p as T};
